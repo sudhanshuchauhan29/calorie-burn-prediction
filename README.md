@@ -97,7 +97,7 @@ calorie-burn-prediction/
 
 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/calorie-burn-prediction.git
+git clone https://github.com/sudhanshuchauhan29/calorie-burn-prediction.git 
 cd calorie-burn-prediction
 2️⃣ Create Virtual Environment
 python -m venv venv
