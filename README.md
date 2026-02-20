@@ -42,10 +42,10 @@ Modular project structure
 
 Three regression algorithms were implemented and compared:
 
-Model	R² Score	RMSE
-Linear Regression	0.9673	11.4889
-Random Forest Regression	0.9983	2.6526
-XGBoost Regression	0.9995	1.4389
+Model R² Score RMSE
+Linear Regression 0.9673 11.4889
+Random Forest Regression 0.9983 2.6526
+XGBoost Regression 0.9995 1.4389
 
 👉 XGBoost achieved the best performance and was selected for deployment.
 
@@ -82,10 +82,10 @@ Project Structure
 calorie-burn-prediction/
 │
 ├── static/
-│   └── style.css
+│ └── style.css
 │
 ├── templates/
-│   └── index.html
+│ └── index.html
 │
 ├── LinearRegressor.py
 ├── randomForest.py
@@ -97,7 +97,7 @@ calorie-burn-prediction/
 
 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/sudhanshuchauhan29/calorie-burn-prediction.git 
+git clone https://github.com/sudhanshuchauhan29/calorie-burn-prediction.git
 cd calorie-burn-prediction
 2️⃣ Create Virtual Environment
 python -m venv venv
